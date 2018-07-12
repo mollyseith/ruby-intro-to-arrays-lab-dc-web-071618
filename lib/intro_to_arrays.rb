@@ -1,3 +1,4 @@
 def instantiate_new_array
-  return array[]
+  ret = []
+  return ret 
 end
